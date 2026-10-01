@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+dataset.npz
+similar_images/
+
+.coverage
